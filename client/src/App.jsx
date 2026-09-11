@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef, useCallback, useMemo } from "react";
 
-const API = "http://10.70.234.190:4000/api";
+const API = "https://klasemen-app-production.up.railway.app/api";
 const STORAGE_KEY = "pn_tournament_id";
 
 const SAMPLE_NAMES = [
